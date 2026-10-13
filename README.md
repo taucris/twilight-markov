@@ -1,6 +1,6 @@
 # Twilight Markov
 
-A 100-card Magic: The Gathering Commander deck (Edgar Markov vampires), re-illustrated with stills from the *Twilight* films. These files are print-ready proxies: you can upload them to [MakePlayingCards.com](https://www.makeplayingcards.com) and get a physical deck.
+A 100-card Edgar Markov Commander deck where every card is a screen cap from one of the *Twilight* films. Files are print-ready proxies: you can print yourself or use your preffered provider. I used [MakePlayingCards.com](https://www.makeplayingcards.com).
 
 ![The full deck](_deck.jpg)
 
@@ -31,4 +31,4 @@ The `aa`/`zz` prefixes sort the fronts first and the backs last, so the three do
 3. **Back:** choose *different images*. Upload `zzcardback-brown-v2-print.png` and the three `zz…-back.png` files. Put each DFC back behind its front in slots 1–3, and fill the other 97 slots with the card back.
 4. Check the preview, then order.
 
-When we ordered, the deck cost **£28.35 before shipping**.
+When we ordered, the deck cost me **£28.35 before shipping** your milage may vary.
