@@ -1,6 +1,6 @@
 # Twilight Markov
 
-A 100-card Edgar Markov Commander deck where every card is a screen cap from one of the *Twilight* films. Files are print-ready proxies: you can print yourself or use your preffered provider. I used [MakePlayingCards.com](https://www.makeplayingcards.com).
+A 100-card Edgar Markov Commander deck where every card is a screen cap from one of the *Twilight* films. Files are print-ready proxies: you can print yourself or use your preferred provider. I used [MakePlayingCards.com](https://www.makeplayingcards.com).
 
 ![The full deck](_deck.jpg)
 
